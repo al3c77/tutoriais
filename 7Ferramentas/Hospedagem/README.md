@@ -4,6 +4,10 @@
 
 Podem ser usadas por frameworks, CMS, e outros softwares em PHP.
 
+## Minha Conclusão
+
+Mas a minha conclusão e a de muitos que já experimentaram as soluções free com suporte a PHP é a de que as hospedagens que existem, são bem restritivas. No caso de Joomla e WordPress CloudAccess é a melhor opção que conheço, mas precisa que renove a cada 30 dias. 000webhosp seria a menos ruin para PHP e MySQL, com suas diversas restrições e por parar o site por uma hora a cada dia. Existe uma grande quantidade de outros, mas para testes rápidos use estes dois, senão seria melhor contatar uma hospedagem simples e adequada as suas necessidades. Sinto ter causado expectativas que se frustraram. Esta não foi a inha intenção. Pelo menos as coisas se esclareceram e as opções disponíveis aqui foram de alguma forma explicadas.
+
 Basicamente encontrei 4 hospedagens free viáveis, cada uma com suas características.
 
 ## 000webhost
