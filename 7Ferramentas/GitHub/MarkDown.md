@@ -56,6 +56,10 @@ ou
 
 *itálico*
 
+## Linha Horizontal
+
+---
+
 ## Links
 
 [Texto](arquivo.md)
@@ -157,6 +161,10 @@ ou
 ## Itálico
 
 *itálico*
+
+## Linha Horizontal
+
+---
 
 ## Links
 
